@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ferd/static/css/main.db5ab538.css",
+    "main.js": "/ferd/static/js/main.e2c70d40.js",
+    "static/js/787.481d22b6.chunk.js": "/ferd/static/js/787.481d22b6.chunk.js",
+    "index.html": "/ferd/index.html",
+    "main.db5ab538.css.map": "/ferd/static/css/main.db5ab538.css.map",
+    "main.e2c70d40.js.map": "/ferd/static/js/main.e2c70d40.js.map",
+    "787.481d22b6.chunk.js.map": "/ferd/static/js/787.481d22b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db5ab538.css",
+    "static/js/main.e2c70d40.js"
+  ]
+}
