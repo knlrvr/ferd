@@ -4,6 +4,7 @@
 ![Screen Shot 2022-10-28 at 9 14 39 AM](https://user-images.githubusercontent.com/91632194/198602599-5ea83111-38a2-44c2-a3f1-d1bae9440dec.png)
 ---
 
+## Description 
 This is a responsive Tesla website clone, redone to represent Ferd (Ford). This was done with *heavy* 
 guidance and inspiration from [This Tesla Website Clone by Clever Programmer](https://www.youtube.com/watch?v=lUeS9Wsj6dk&t=160s). 
 ---
