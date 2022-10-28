@@ -6,7 +6,7 @@ function Home() {
   return (
     <Container>
             <Section
-                title="2023 Ferd Broncy"
+                title="2023 Ferd Bronky"
                 description="Discover which Broncy can reunite you with adventure."
                 backgroundImg="bronco.jpeg"
                 leftButtonText="custom order"
@@ -22,7 +22,7 @@ function Home() {
                 textColor="inherit"
             />
             <Section
-                title="2023 Ferd Mustang"
+                title="2023 Ferd Merstang"
                 description="Find uncompromised power and spirit in every model of an icon."
                 backgroundImg="mustang.webp"
                 leftButtonText="custom order"
@@ -30,8 +30,8 @@ function Home() {
                 textColor="inherit"
             />
             <Section
-                title="Let's Go Electric, Together"
-                description="See how Ferd electric vehicles fit into your life."
+                title="Let's Go Ewectric, Together"
+                description="See how Ferd ewectric vehicles fit into your life."
                 backgroundImg="mach.jpeg"
                 leftButtonText="Browse Vehicles"
                 rightButtonText="Ferd EV Living"
