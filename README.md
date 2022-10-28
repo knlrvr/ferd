@@ -1,3 +1,14 @@
+<h1 align="center">Ferd Company</h1>
+
+![Screen Shot 2022-10-28 at 9 14 39 AM](https://user-images.githubusercontent.com/91632194/198602599-5ea83111-38a2-44c2-a3f1-d1bae9440dec.png)
+
+This is a responsive Tesla website clone, redone to represent Ferd (Ford). 
+
+*I am not affiliated with, nor do I represent, this company.*
+
+
+
+
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
