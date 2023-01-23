@@ -15,8 +15,6 @@ This is a responsive Tesla website clone, customized to Ferd (Ford).
 - [Styled-Components]()
 
 ## Running Ferd Company Yourself
-Here's how to run this on your computer!
-
 1. Clone the project to your machine with `git clone https://github.com/knlrvr/ferd.git`
 2. On a command line inside of the application's folder, run `npm start`
 3. Open [http://localhost:3000](http://localhost:3000) to view it in the browser
